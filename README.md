@@ -33,7 +33,7 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise de Vendas BikeStores
-<img align="right" width="500" src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Capa.png?raw=true">
+<img align="right" width="500" src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Imagens/Capa.png?raw=true">
 Projeto desenvolvido para análise e entendimento do desempenho comercial das lojas da base BikeStores, utilizando consultas SQL para extração dos dados e Power BI para modelagem e visualização. <br>
 Principais desafios: <br>
 • 	Construir consultas SQL para organizar e relacionar as tabelas de clientes, pedidos, produtos e lojas. <br>
