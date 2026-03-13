@@ -9,6 +9,8 @@ Sobre mim:
 - 🌱 Ensino Analise de dados em minha plataforma
 - 🤓 Cientista de Dados aspirante
 
+<br>
+
 Principais Ferramentas:
 
 <div>
@@ -17,9 +19,11 @@ Principais Ferramentas:
   
 </div>
 
+<br>
+
 Onde podem me encontrar:
 <div>
-  <a href="www.linkedin.com/in/pedrovieira00">
+  <a href="https://www.linkedin.com/in/pedrovieira00/">
     <img height="40" width="40" src="https://github.com/Pedrax00/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
