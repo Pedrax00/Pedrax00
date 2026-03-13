@@ -1,13 +1,14 @@
-### Hello world, I'm Bruce👋
+### Olá, eu sou Pedro👋
 
-## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
+## Analista de Dados em busca de crescimento profissional e focado em transformar dados em resultados 
 
 Sobre mim:
 
-- 🔭 Atualmente trabalho como Data Analyst Manager
-- 🏠 Atualmente moro e trabalho nos Estados Unidos
-- 🌱 Ensino Analise de dados em minha plataforma
-- 🤓 Cientista de Dados aspirante
+- 📊 Experiência com análise de dados e BI
+- 🎯 Interesse em gerar insights e resultados para empresas
+- 🌱 Estudando Python para automação e análise de dados
+- 🤝 Trabalho colaborativo e aprendizado contínuo
+
 
 <br>
 
@@ -16,6 +17,7 @@ Principais Ferramentas:
 <div>
   <img height="40" width="40" src="https://github.com/Pedrax00/Portfolio/blob/main/linguagens/sql.png?raw=true">
   <img height="40" width="40" src="https://github.com/Pedrax00/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+  <img height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
   
 </div>
 
