@@ -31,7 +31,7 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise de Clientes AdventureWorks
-<img align="left" width="500" src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Capa.png?raw=true">
+<img align="right" width="500" src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Capa.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
@@ -40,6 +40,5 @@ Principais desafios: <br>
 <br>
 <br>
 
-<a href="https://github.com/Pedrax00/Portfolio-BikeStore"> Clique aqui</a> para acessar o repositório no Github
-
+<a href="https://github.com/Pedrax00/Portfolio-BikeStore"> Clique aqui</a> para acessar o repositório no Github <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWQ2YjIzOWYtODEzOS00YTE5LWFkODMtY2U5NmRhYzFmMWIyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
