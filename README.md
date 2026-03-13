@@ -41,3 +41,5 @@ Principais desafios: <br>
 <br>
 
 <a href="https://github.com/Pedrax00/Portfolio-BikeStore"> Clique aqui</a> para acessar o repositório no Github
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWQ2YjIzOWYtODEzOS00YTE5LWFkODMtY2U5NmRhYzFmMWIyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
