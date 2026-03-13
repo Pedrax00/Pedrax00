@@ -32,15 +32,17 @@ Onde podem me encontrar:
 
 ## Portfólio e Principais Projetos
 
-### Análise de Clientes AdventureWorks
+### Análise de Vendas BikeStores
 <img align="right" width="500" src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Capa.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Projeto desenvolvido para análise e entendimento do desempenho comercial das lojas da base BikeStores, utilizando consultas SQL para extração dos dados e Power BI para modelagem e visualização. <br>
 Principais desafios: <br>
-- Desenvolver consultas utilizando linguagem SQL.<br>
-- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
-- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
+• 	Construir consultas SQL para organizar e relacionar as tabelas de clientes, pedidos, produtos e lojas. <br>
+• 	Modelagem dimensional em Star Schema para garantir integridade e clareza nas análises. <br>
+• 	Criação de métricas em DAX (faturamento total, ticket médio, número de vendas e média de produtos por pedido). <br>
+• 	Desenvolvimento de dashboards interativos no Power BI para comparar desempenho entre lojas e acompanhar evolução mensal. <br>
+• 	Investigação de variações atípicas (outliers), como a oscilação de faturamento entre janeiro e fevereiro, identificando fatores regionais e comportamentais que influenciaram os resultados
 <br>
 <br>
 
 <a href="https://github.com/Pedrax00/Portfolio-BikeStore"> Clique aqui</a> para acessar o repositório no Github <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZWQ2YjIzOWYtODEzOS00YTE5LWFkODMtY2U5NmRhYzFmMWIyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWQ2YjIzOWYtODEzOS00YTE5LWFkODMtY2U5NmRhYzFmMWIyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">Clique aqui</a> e veja o dashboard interativo no Power BI.
